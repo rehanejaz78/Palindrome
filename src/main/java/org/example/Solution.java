@@ -39,6 +39,7 @@ public class Solution {
 //                return true;
 //            else
 //                return false;
+            //added new commit
 
             StringBuilder sb = new StringBuilder(myString);
             return myString.equalsIgnoreCase((sb.reverse()).toString());
